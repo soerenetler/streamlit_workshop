@@ -1,0 +1,538 @@
+,id,name
+0,e24bf11c-1e0c-47c8-b19d-77a8d61b26a2,Burg
+1,33273e12-1b93-4d6f-bf1d-03dbbe4446b5,Gemeinde
+2,cc5120e6-65e3-4ccb-9b7d-eafaa6ae54c7,Supermarkt
+3,588ee468-d266-43e0-9b05-e7f1665e58de,Parkplatz
+4,6f684365-6dc9-4483-8b1d-4476df265a12,Historische Stätte
+5,fa902e8a-2fc8-4292-b5ba-86082814e612,Schloss
+6,25c2410f-17c7-45bc-8863-ab4e036be110,Kirche
+7,eabb3b85-d659-46cd-9e94-6469a43f1c49,Touristinformation
+8,e33f5691-b227-49a6-ac7e-2ff21ffebb85,Bergwerk
+9,f4e70768-1cce-4d78-8a93-b4740bb4739b,E-Bike Ladestation
+10,0ae45c2c-c267-4d1d-85a5-d8374b64e029,Ferienwohnung
+11,74250498-4b83-3aa3-9c46-b9815be2a055,Themenweg
+12,82f502c3-bc25-4e2b-82db-a3f429c0d35b,Hallenbad
+13,e2935338-40c9-38d5-a7ab-9d48f129e049,Wanderweg
+14,e746ed60-823b-475f-8485-c934ee4cff61,Grillplatz
+15,c0ecdcb2-9992-4567-95c4-78c2e2199e22,Gäste- / Kultur- / Stadtführer
+16,4eb95f91-d3e0-3691-a115-aad4ac491695,Wohnmobilstellplatz
+17,e88f4a06-843f-48b3-94c3-e6c0f4d17b82,Quelle
+18,f1739c4a-c50f-4676-b566-91a82d2f08f4,Spielplatz
+19,0d6274e1-4cc4-3df8-94f3-23f90d0eb1a3,Loipe
+20,5d7d3209-e40d-42d6-884b-96626ca95891,Fabrikverkauf
+21,ae132445-df01-4c6e-85d4-89acf3b47292,Höhle
+22,a46e5ee3-d762-41cd-a937-59b494758e6d,Restaurant
+23,58e59dad-c34b-4344-b90e-f641e4b53b9b,Naturschutzgebiet
+24,48523b8f-6203-330a-bbd7-6505d43f30aa,Pilgerweg
+25,ecbcf3e8-1b8b-489e-8fe3-a3adf6e28381,Heimatmuseum
+26,51b062df-f155-40fc-928d-87b2e9bd1333,Blumengeschäft
+27,c686360b-3b79-4abe-a5ec-bf962d4ddda3,Ortsteil
+28,f4679106-5e8e-4974-940b-a952dc8242d9,Tante-Emma-Laden
+29,5d25ca64-5ea6-4a8d-9a70-5b2ad300e171,Wanderparkplatz
+30,9b57c544-ef34-4fa2-96b3-c6dcc2db7c5d,Bahnhof
+31,4792a8b8-06b4-4c95-a2e3-a0ee4a510cd8,Ruine
+32,1a04947d-83d5-4d70-824f-86eaa0b27dca,Eisdiele/-café
+33,3ffeb941-8bdd-4030-a8c8-be4b2cb5ff65,Rathaus
+34,cd39174c-7ca5-4771-b502-a9ca1b6d1ff6,Gasthaus
+35,a25f18e6-4cba-45f8-9330-759f76f7d8f3,Hofladen / Direktvermarkter
+36,7306bf90-e886-46e8-b3ae-c01df08822af,Skilift
+37,65de2550-b8e0-4f6f-852e-a469c3d9d815,Kapelle
+38,016617ec-d4ab-4cb6-a914-038dc4af4eae,Aussichtspunkt
+39,f1f04738-d0d7-46cb-9341-738fd4f8861a,Stadt
+40,794033fb-7719-4efb-aee6-c286240a124b,Pizzeria
+41,a11a35ee-215e-462c-8182-dc9eea2716d8,Spezialmuseum
+42,23ab2d9c-07ed-4441-bc83-5031c2b41b30,Bikepark
+43,655d90f6-8efb-4c1c-bfd2-47a24811ec60,Ausflugslokal
+44,04b46c13-7b3d-40f9-8f22-9b0f0667d780,Theater
+45,50e35a97-5205-43fb-93b2-92fceac76ed7,Archäologische Stätte
+46,6efcaec9-59c8-4de6-a2e2-b30390fbf405,Buchhandlung
+47,adf06dc3-6bd9-4cd6-8b71-87ceeb982fa6,Brunnen
+48,2574f567-1d61-4ee2-84f1-8b5c41c8da12,Metzgerei
+49,cf56b715-f254-4e87-ba01-0ce7fbfba69e,Bäckerei
+50,9a685cb1-3916-49ac-8d17-2ec9d08bc964,Erlebnisanbieter
+51,6430d469-55ca-474e-8cb4-241dcdd67469,Fahrradgeschäft
+52,e4e83cb9-b6d4-4f57-b84d-0d135ee9a919,Reitsportanlage
+53,9ab4378f-4fb2-4be0-9fd8-d0fba0d5040f,Mühle
+54,e7b84c75-9388-4460-a382-f74bee4e7233,Strauße/Besenwirtschaft
+55,3e4e6ef7-61a1-4a59-928d-cccb08081c9b,Hotel
+56,88bc7347-096a-45c8-9d77-db1746115057,Parkanlage
+57,f2f47dab-5153-4551-a791-26e8e66e4eee,Kiosk
+58,24b2ea9d-2483-4ee3-a3d5-47f7f80d8fba,Archiv
+59,6b674a3b-e814-4e75-8f4e-91ab79b77124,Bootsliegeplatz
+60,7229f2e0-4993-421e-ba84-2200eedad585,Spaziergang
+61,7ee9adb8-a903-4c67-8a08-e601c1ef5368,Kunst im öffentlichen Raum
+62,064d68cb-fc51-4be4-abcb-987fbd39531c,Pension
+63,597077dd-5bce-4517-90f6-3790c0b6bc13,Historisches Museum
+64,afe7127c-953c-4bbb-ad2b-43b1f344883d,Haus der Natur
+65,8db3c052-0ceb-494a-a74a-0bc2718dded7,Region
+66,8b30f31b-2e8b-4f75-a729-f6a0f27e834a,Öffentliche Toilette
+67,7fe09169-e041-4fc7-a5d9-1cf3c08819a7,Kulturveranstalter
+68,3af68233-8505-4265-9eb9-a207be5dfc6c,Stromtankstelle / Ladesäule
+69,8b05c0ab-33c6-47cc-ab8a-d3010f0f39b1,Geocaching Anbieter
+70,818fec06-094f-45e3-8a8a-86c2a3200dd9,Haltestelle
+71,4a2419f2-779e-4c57-8aa0-9b035ca975ed,Sportverein
+72,0223e0b7-35fc-44b7-a661-7407650b40cd,Festplatz
+73,f10c1fc9-4ea1-4d59-abca-24ab71b6dc53,Gourmet-Restaurant
+74,1a9bade7-d940-452d-8f97-a7d835a77e9f,Berg
+75,8b604048-2e83-4a0c-b32a-77a786a5fc9b,Schneesportschule
+76,210c864b-3c51-416e-8843-d6620f379d1c,Kulturzentrum
+77,15373ec4-5d84-477b-86ad-396e09f0d3df,Imbiss
+78,5f627219-b343-41df-bc99-94914b9b4433,Verein
+79,263a4148-d84c-488a-9054-023beb270e97,Weingut
+80,5afb6128-e39d-4d57-b2a5-8f57fd5ba703,Friseursalon
+81,e2d7312a-aecd-4c7e-b52a-218819993cab,Architektur
+82,ad91a746-5b8e-43c0-873c-f81d1d7243d7,Vesperstube
+83,773c6669-8856-4f92-8f75-471bdb215c11,Tankstelle
+84,a26b1f8e-d288-4889-96a9-2281ccbab5ee,Fest- / Stadthalle
+85,a216aaf9-f576-4486-93ce-b693a0359f11,Berggasthof
+86,b6adad91-cac8-4d37-83ac-2dfeed0b2ad2,Freibad
+87,0f87d3ac-e710-48ac-9625-ff462e3ff625,Apotheke
+88,c6521e3b-57a9-461d-9b9b-8bc9c4dc88dd,Wasserfall
+89,e93832ee-95e8-46de-b727-c6ac75af02e1,Wanderführer/in
+90,5e2b5bc0-ea05-4c87-9aeb-41991e16384a,Arzt
+91,ca33e08e-5d0d-4380-b559-9e29d9236627,Parkhaus
+92,fb6bb3b3-ae08-4cab-82f4-751bfa45abfc,Boardinghouse
+93,d0e480bd-8cc9-4271-9060-ea1e8164702d,Gästehaus
+94,7f54cac9-0a65-40a4-afb3-36288da17c7c,Bioladen
+95,e31a149f-a602-4bed-86d5-ee81f0a530ec,Schießstand
+96,036cf5dd-ff1e-4d75-9125-6e743c5ca385,Denkmal
+97,3cd4ec19-ed59-4f76-b01c-0a42d0a01244,Photopoint
+98,aa642555-bbfc-49b9-b1c1-ad8f8a76d852,Bushaltestelle
+99,93d61b8e-d332-4977-83d6-0c48e4b48e9c,Ferienzimmer
+100,e64836de-d3a4-4a41-8877-4e7c70d1148f,Treffpunkt
+101,85e2e4b4-e187-4e27-b4f3-fc9278a51b86,Konditorei
+102,f91122a9-7767-4e05-ae75-f44d4eec21e2,Apart-/Apartmenthotel
+103,76a0f4cc-47bf-43e6-8cd6-bfa8226fdaa6,Kneipe
+104,f4e0ca71-5ee6-484b-a51b-e345dc616fa6,Infotafel
+105,76ae7314-0973-49c1-a9fc-1a36be865a35,Café
+106,98eeb1c8-557d-34bc-a722-c65c1434e52a,Stadtrundgang
+107,0ecbe50c-4997-42ee-b6b1-ed8d35481f15,Marktplatz
+108,a3294acb-6688-4621-8866-3a87bc44c596,Bistro
+109,e33347ea-80d2-4994-b907-b8942d3b4d62,Umweltstation
+110,f1130240-43dc-4c11-99fb-1f4c9854cdc1,Barfußpfad
+111,6072f4a3-b1a0-4f96-993b-ce43d646b4bb,Trinkbrunnen
+112,a3c06fb7-97d1-48bc-a75e-0e697d8a4d1e,Mediathek / Bibliothek
+113,dc366c4c-1074-474d-9cde-63028c6bef24,Ferienhaus
+114,9a18aedb-b862-4e9e-93d8-671bd335ee52,Kino
+115,0f8081b4-d0eb-421b-9b49-229fccd29f3b,Historisches Gebäude
+116,fe778a5e-fe4c-4563-bf1a-465c10570626,Erlebnisgastronomie
+117,6711543c-968b-4c87-a318-9c3998101495,Geotop
+118,88183ab4-9cdd-4c4e-84f7-07f60c6f584b,Stadtteil
+119,a66f719c-9738-4819-8abc-3df9d0fc2592,Lebensmittelgeschäft
+120,a9470824-444f-4888-b1ba-7ecf4ed43b86,Kurklinik
+121,23e2e449-e9b8-4e0b-9bc1-c19948280369,Rastplatz
+122,c4ae1672-5e14-4390-894c-4af2b4502737,Bar
+123,c755b218-3613-4ef5-bb2c-056282bd1b0e,Kloster
+124,c1abb1c6-50a3-4be0-b953-95315f884dc9,Gartenanlage
+125,2eedc064-df2c-4b88-b769-dbd995c4acfa,Gemeindezentrum
+126,70c25893-8714-4a97-b008-528eccab2141,See
+127,affe6699-6896-4a2f-8fd0-902b283816fc,E-Bike Verleih
+128,ba1b9ef2-ff81-3496-9b80-528bc52e1f10,Campingplatz
+129,d7b733dd-173d-4d65-86f0-a7b9c3d6c9c2,Aussichtsturm
+130,97b92c20-8ff5-448e-a38b-7313fc463ca9,Post- / Paketannahmestelle
+131,1d204cf8-64b0-40bd-9d64-c224c3abfeed,Bankfiliale
+132,c5a33167-085c-4249-934b-e685852ae973,Weinlokal
+133,9988aa89-0786-4dc6-9069-d861907521ad,Streetfood
+134,0d22fc5f-d705-441c-9229-d93934d6b6ea,Minigolfplatz
+135,bfea6b36-87b5-4704-a54a-12b9dc209302,Sauna
+136,3515de8a-ad54-4963-8887-13f2be618b7a,Brennerei / Destillerie
+137,d9cb38c0-7249-4633-a1fc-6aa25d4d65b1,Eventveranstalter
+138,03fb3d86-dac9-46b8-ab87-284da976e350,Busbahnhof
+139,e1744565-bd66-4c90-a20f-0edb0b8e9c9d,Eventlocation
+140,c4b98b55-aadb-44db-946a-daf2cc4eba6c,Indoor Spielplatz
+141,df534bdd-aa14-4ace-bbc0-68f71c412478,Lehrgarten
+142,57449486-8f5a-44bd-b542-9f0f17d54ee1,Drogerie
+143,18907b55-09f5-44f3-b009-e31b4bec147a,Badesee
+144,c6e94e14-455c-4ed9-b93a-addb3bddb790,Gedenkstätte
+145,71b47547-2490-4128-924e-9eb5a39c0233,Tennisplatz
+146,587ef021-9f09-4c85-8155-146e5b324ea9,Geldautomat
+147,6ee17bc4-7c07-45a7-80d1-3416d7b49c5b,Fahrradwerkstatt
+148,bb429075-d228-4d4c-b290-ef1295babe35,Schutzhütte
+149,4b1b0d06-a0b7-4f38-879f-9659551d1699,Kneippanlage
+150,b73907b7-5da2-4594-b302-af0d14958dd7,Winzergenossenschaft
+151,c5a5b82b-eac1-4e7d-ad4b-a6631e4f0d31,Polizeidienstelle
+152,83a84420-60c3-4cd3-b40f-6393f727ac1a,Krankenhaus
+153,bd4bc8bb-88b0-436d-ac09-a109ffb4df2d,Eislaufbahn
+154,523c47a3-baba-4245-8629-ca676e6afc0a,Wanderführer
+155,63a3a26c-4eee-4daf-adb1-1e7405bc930c,Fußgängerzone
+156,a19b37a4-e80d-4e2d-b130-762619eaf554,Sushi-Restaurant
+157,eb50dd5f-e335-4b27-9589-b9a4b5e99b58,Altstadt
+158,fd305f08-ad80-4e51-b35e-36a9a13f51dc,Verwaltungsamt
+159,fa5565b6-5a39-478c-a9ee-4fa7822511ca,Spezialgeschäft
+160,7f0fc733-a0a3-4939-bb08-9addfad4446c,Hotel Garni
+161,4b40d09e-99d3-4e5f-b498-07c633d04a0d,Picknickplatz
+162,eb7795f4-1877-4a4c-b015-8f949d077591,Freizeitbad
+163,4e835a19-1cfd-464d-9662-d68bc21918c5,Reisebüro
+164,ed78e7bf-8ad3-3575-a756-3176141a6f08,Radtour
+165,35f936fc-16e6-45b0-970f-6a10f4ab3e22,Manufaktur
+166,09d708de-1198-4f71-b90e-eab6ffe0d7ef,Testzentrum
+167,e28298c6-fae3-464e-b9f6-e9196201073c,Jazzclub
+168,500df81d-c4fd-4e05-b690-a505d20e1fdb,Wald
+169,54a60768-3e19-4d92-8f08-b4087b7f5f90,Radservice Station
+170,f1755449-3894-4dd6-b82b-be36937ca183,Literaturmuseum
+171,c7264599-6de5-3bc4-abd0-b5f5eafe913f,MTB-Tour
+172,27771a6d-3260-4c02-ae2a-a165250c703a,Wanderverein
+173,89bec6d1-71fc-41ee-b048-e217f993955c,Kutschfahrten-Anbieter
+174,483d91a0-c110-4216-bf6a-6a5a49e3d9c9,Museum
+175,fe08a52e-9e42-4526-9796-ec1f5736fa80,Spezialunterkunft
+176,92487dbe-5393-4654-8b8f-2186492e1b26,Kinder- und Familienmuseum
+177,57fc5845-125b-469e-8b6b-34da9bc1cad1,Verkaufsstand
+178,b21ab998-ea29-4de2-9b08-6b9047b8f970,Selbstbedienungsstation
+179,e4af96eb-a54b-46a0-8794-0aced99ac6ee,Bekleidungsgeschäft
+180,e5ee09fa-2494-4e13-90fb-173a22feaf8c,Kurpark
+181,5629e926-3047-4033-9b0b-d6a66320c0ce,Catering
+182,09b06841-605a-4b9a-b9ac-82b3dbf788b9,Getränkemarkt
+183,f0e31d4f-c37d-49c2-b34a-923b29d00c29,Uhren und Schmuckgeschäft
+184,eff6fa10-6db8-4f0d-aa96-bde5fef65bf2,Volleyballfeld
+185,c21667d8-a4fc-4676-a4d2-4499440e075c,Kunsthandwerk
+186,4e76b0df-513d-4ad7-9fb6-508fc8b72d39,Beautysalon
+187,e22f3419-15c8-4231-8125-15e5dc9095c0,Brauerei
+188,07f16586-4de1-4d85-9408-013ebdd52f00,Atelier
+189,f07c4dcd-a482-437b-b58e-5fb394db3a40,Escape Room
+190,0ab26de9-75b6-44c1-bf4a-4a013351bbf5,Bowling- / Kegelbahn
+191,b440bad2-e677-41f9-b758-54f097755cf7,Weiher
+192,f0bc0998-b89e-4e73-b7aa-687745a1ce1d,Strand
+193,8c7ee960-29f1-42a6-8809-dbc819d60896,Oper
+194,beed14db-294e-476d-9032-da2568788cd5,Zoo / Tierpark
+195,b50c7b50-6d5e-4cc3-b352-da9c280f9ec9,Landschaftsschutzgebiet
+196,590e8530-cb60-4097-bcdb-c23978ebaf7c,Gasthof
+197,0d4fcb55-4559-4799-b8e8-6cef95919837,Fahrradverleih
+198,f614c969-e6ed-46ea-a339-5aba9bf08cdc,Turm
+199,9390c13f-25f7-41dc-8a7d-3e5ca2930ddd,Kunst- / Design Museum
+200,1a7d1083-73b6-3705-9aaf-eda00bee71aa,Fernwanderweg
+201,7d59c58f-b2bc-4acc-89cf-a16bb1738e9c,Skatepark / Pumptrack
+202,ceab349b-886b-4068-baf8-959eb69aa49c,Imkerei
+203,3ab74752-098e-4549-b95f-6b5d4ae60c25,Sportgeschäft
+204,0b9c2b10-4c36-4917-9cee-6b800536c875,Galerie
+205,676304ce-2c50-30a8-a8fa-da5ae319f736,Winterwanderweg
+206,42c1db58-b639-4213-bbc2-25af1f47a4bb,Gravel-Tour
+207,4313eeee-e219-3aa5-9cb9-c457fc659c12,Schneeschuhtour
+208,f69d873d-c348-34aa-82b3-fbba5288f7f5,Rennradtour
+209,13ae63e5-7139-3a58-a663-9b78656397c9,Motorradtour
+210,38eba28a-8509-4509-a2e1-4f219ce3da7e,Bergrestaurant
+211,79888b0c-b5ee-48c3-b0df-301617948ce8,Bergbahn
+212,aa92bb82-ab3b-416e-8677-80ec1bad6bc9,Feuerwehr
+213,b13f6469-51bf-48a0-8821-183081ff6ba6,Golfplatz
+214,f6effa41-7382-426d-afc8-ef4b1c21c96c,Angelmöglichkeit
+215,04bca5e7-f39a-4fc3-8cfa-2ce533621fbb,Bootsverleih
+216,5c63a499-ea01-4e47-9a71-604fadfd5d4c,Rennstrecke
+217,23ccdd6c-b9d2-46d3-a53a-8be302e417c1,Schneeschuhverleih
+218,c3a5f1bb-e6e2-466d-861f-356a91bcaf24,Rodelhang
+219,3992efcb-3626-4ef4-b776-4802b6ab7847,Tanzschule
+220,f108429f-9ecf-41e3-a509-77d830d8f0f4,Thermalbad
+221,21a0ad54-802e-492c-bb73-ea903e5873a9,Jugendherberge
+222,899e32e2-ca40-4554-85db-0b9eae116b45,Fachwerkhaus
+223,ebe3122c-79e1-4d70-975f-0b79642ba835,Stadtmauer / Tor
+224,d0f3e770-f3b3-3ce7-b8a2-b105c05c8692,Rodelabfahrt
+225,b9a1e04a-a380-3c78-854f-932dcfd343a4,Lehrpfad
+226,0ec8aabb-e5bd-44b3-9409-2db0cf60c8bb,Physiotherapeut
+227,698dcf52-a92c-4c63-b6f1-e3fa60eca697,Berühmtes Bauwerk
+228,1bb45550-d950-4786-aac6-f6fe45149138,Reiterhof
+229,63dc87ee-af0f-4542-8a4b-57996f136574,Kletterhalle
+230,bda79be1-1d3f-46bc-a837-decc7e6598dd,Brücke / Viadukt
+231,3d6d26e6-df70-4630-8b8f-f90d2cb0877e,Busparkplatz
+232,de13a691-3b90-4884-8943-4a8471204d13,Glashütte
+233,38206ed7-40b1-40a3-b41d-c9ca5bb5a0c7,Concept Store
+234,f9a67d54-ad43-4111-9568-8c2c93cf0222,Einkaufszentrum
+235,6bbd8478-4c63-4d61-b48e-1088eb2eb9f4,WLAN Hotspot
+236,5bf95214-5573-406a-8971-3d8d95f0a70c,Versicherungsanbieter
+237,7d444caf-5cef-4715-ab37-92064b8aa2bf,Damenmodegeschäft
+238,e19b09bb-f9a9-4e6d-873e-f92aea841710,Festspielhaus
+239,844fb825-e441-42e2-a2c6-e0bbd986af79,Fotograf/in
+240,7541be26-1774-4f5c-94f0-d95b75ba1fc7,Möbelhandel
+241,44a134ab-68c9-42b8-b1ae-dc78c35ef923,Fitnessstudio
+242,8e564c0a-b721-4a34-9b6a-7d01cbc20b72,Schuhgeschäft
+243,985a4b10-f82d-44ec-b319-bf6615d87cc8,Optiker
+244,a11247e3-bc14-41ea-b4c4-2200b8668609,Rösterei
+245,9d548bbe-9b61-45c8-b5ad-bda2a3c9d7bb,Spielwarengeschäft
+246,531ba243-9846-431c-9443-d377c2616210,Weinhandlung
+247,87484e73-f1a1-4d31-99a3-7398292f779f,Herrenmodegeschäft
+248,8100e2cb-9d1b-4cac-9481-578ea72ebcf2,Koffer- / Taschengeschäft
+249,aaabfc5b-b6c6-41ab-bbf3-4d6323b6ed25,Vinothek
+250,9612e700-a7f5-4578-a35b-e4b08a3dff6a,Parfümerie
+251,bf4572e0-8a36-4391-be45-a24a699d50b3,Einzelhandel
+252,a30849e9-dc0b-4143-90d8-bf0b359eebb3,Gewerbeverein
+253,8a8519b5-0385-4158-aaaf-ad2e66120533,Abfallentsorgung
+254,2fc60697-4af3-46ff-9644-4995405a654e,Finanzberater
+255,4b2a25e1-401d-4811-a9b1-8e50ed1a5672,Brautmodengeschäft
+256,3ddf2a87-0c09-4f6e-b959-41fd941fa025,Tabakladen
+257,f2baab71-8b59-4fb2-a57a-3b41b92f2bbc,Immobilienmakler
+258,1e64b55e-eb09-447e-82b0-782a172340cf,Kelterei
+259,301988d5-e04a-42c4-95e8-83fe0fd30304,Elektrofachhandel
+260,24bfe111-2a39-40c9-bc56-ca197aad116b,Autohaus
+261,e068c118-9aa6-4996-b368-72c820e8d94a,Segelflugplatz
+262,c240b5d6-c26e-48f8-a298-9cda4bbfff67,Mobiltelefongeschäft
+263,529fea82-3398-46f2-94a2-5624c9a00f38,Fotograf / Filmemacher
+264,b8f16ecd-1a76-482a-8845-e7c51e71e58f,Autovermietung
+265,b29e4267-2051-46d4-87f3-ada4c86272d9,Mediendienstleister
+266,fb61ea42-b0e6-405f-81c3-b03b40cdc09f,Juwelier
+267,7458d87e-cc7b-4ff3-ab19-7996d9bbd1ce,Druckerei
+268,4265aace-e747-4dda-aa88-990ea714773f,Musikgeschäft
+269,74e68b52-72c0-44c2-95af-8ba078130a42,Hochschule
+270,73e054e8-07d3-4ce3-b027-9607917b5e40,Schreibwarengeschäft
+271,97351bd3-0073-411d-be12-ab2b897e2589,Geschäft für Modeaccessoires
+272,96b60e8d-2a59-47b7-919b-d600c7bc95e4,Hochzeitsservice
+273,cfbcb099-dd62-4f30-80dd-faaebf158c85,Veranstaltungstechnik-Dienstleistung
+274,66ef4e37-9b8e-4ebd-a792-84acadedafd2,Sanitätshaus
+275,b11cb524-6303-409d-a43d-c048e6b21be6,Wirtschaftseinrichtung
+276,437695aa-87e5-4a33-b183-75707c0cda7c,Fluss
+277,e1abfbd0-9b5c-4ef0-aa42-e3f173fa1881,Massagepraxis
+278,f8b2200b-e9ac-459a-a00d-3fa96a83c5bd,Volkshochschule
+279,0dfc1d28-8fba-46ec-838d-f0b81ae13f7b,Baumarkt
+280,e0f071ad-873e-4fcd-ba8f-5967205c9c69,Musikveranstalter
+281,5ae94a1b-253e-42dd-b0d6-14e8acf72b3e,Standesamt
+282,2631f85c-8d1c-4c52-8ed2-a65366cc45db,Industriedenkmal
+283,4d38a60a-a625-4c74-ab1d-5384d7c54e89,Fotofachgeschäft
+284,ecaa7162-5365-42fb-b3e2-35775eeb1708,Hochzeitsplaner
+285,e63fa4d3-b68c-4527-9eb5-c1019508528e,Unverpacktladen
+286,03108aba-68fa-4790-8f2e-0e94cf2188d6,Spirituosenhandel
+287,1e9fa46f-10d3-4dc3-92d8-96b7c41d778e,Architekt
+288,d0de84af-1492-4a0c-b262-5c6d097f3169,Messe- / Kongresszentrum
+289,655e0457-68c2-4576-88ea-0eab45308922,Haushaltswarengeschäft
+290,0b803dec-48ab-412f-9965-83615a1da382,Wissenschaftsmuseum
+291,34bc4aa4-234f-43e8-97a2-37bcd2ef8a21,Jugendtreff
+292,ae657126-b74e-4684-95a5-25f3891d01e1,Feinkost/Delikatessengeschäft
+293,6e069668-f384-4ca0-84fe-6c234f6e8a7b,Künstler/in
+294,96fa3379-0587-43a4-9e8c-2e31598244a8,Wellnesscenter
+295,d3856c31-5968-4ff4-87d4-9ee3b52fd006,Gesundheitsanbieter
+296,5bf914ef-70fc-47e0-bae5-89aec5c5db05,Verleihservice
+297,73362bad-cfbc-4a72-ae81-09d57a07494a,Naturkundemuseum
+298,0a4b621f-633e-48ff-88c7-392a4c981a63,Musiker/in
+299,2d2c00d2-80cb-454d-b034-5e19e59574b1,Sportanlage
+300,1b859287-82bc-47e2-b0be-41ab5d7cf747,Personal Training
+301,ce37e3df-d9b5-4448-80ad-610c231ebe97,Trattoria/Osteria
+302,ac4682d9-6182-4cf3-b87e-e62842da4f24,Journalist/in
+303,0667ecb7-52e5-43a4-bfcb-eed8c2267877,Kunstgalerie
+304,c0e3f700-1a47-4e14-9715-97d57fe50f0e,Friedhof
+305,7ece00ee-c25a-4ec7-b1c7-06062e8cfd4e,Coworking Space
+306,4ad30a97-62d2-4409-bffb-22352b34f219,Boutique
+307,16584515-fa82-439f-8477-f63857a69292,Sprachschule
+308,d4b132a8-1459-4713-812a-f752247ae0be,Freilichtbühne
+309,7325f820-2af2-4a73-a4ff-5ea8ea985940,Geschenkladen
+310,ace4ed6e-ee2f-4e61-8181-ae2ae4407f88,Tourenveranstalter
+311,378e3ed6-7658-4761-b144-441ab34aebf3,Landkreis
+312,5512e508-cec4-4293-88b0-85e32c1a1085,Landratsamt
+313,b5680e6c-19ea-49c2-9083-8de3b197d48f,Freizeitpark
+314,fd1b1690-2514-4630-9653-27cfa6a1194d,Seminar-/Tagungshotel
+315,f2772201-0d02-4618-8aa9-f2bfa56f0079,Bogenschießanlage
+316,996d35a9-6b2d-4d62-be4a-a0ddd91e162c,Schlucht
+317,e256334f-a0d9-47d4-82b6-6df21393de5d,Discounter
+318,8eb047e1-1385-456d-bea0-4d7ae4a6a7ea,Taxistand
+319,0800f052-4986-48c7-adca-2a9ee34a3340,Trimmdichpfad
+320,bedb60aa-39e2-3293-a1bb-50c4297b56c1,Ferienstraße
+321,21fe58b9-0e22-4b00-ad68-fcfe3ee3f74f,Skiverleih
+322,91ef9387-ec4d-4a10-86f7-5e804b3ed397,Weinberg
+323,66c510f3-4af9-4b5a-b808-0c3a4972d497,Dom
+324,35247558-d676-4af8-9559-622e34479840,Industrie- und Werksbesichtigung
+325,32866937-a78b-4201-86c8-cad8882203eb,Moorgebiet
+326,27c29d65-2987-496b-8a7a-55f5bd8b785d,Insel
+327,7cd05575-5c51-462a-aa5e-bfd9eb8bc1f6,Flug- und Landeplatz
+328,bd8c3676-d1ca-498b-9b06-4df24c80447a,Hockeyfeld
+329,b17cd38a-bbaf-4ae6-adea-79231543888c,Reinigungsdienst
+330,bc1555b9-8ccc-49d3-a731-18c756a95212,Schauspieler/in
+331,df94f678-4710-4b59-b09c-4936d811c642,Kinderbekleidungsgeschäft
+332,17ff3061-fb56-44d8-8aa0-2a6a1711a760,Freilichtmuseum
+333,083c4671-f484-4bca-a23c-d614d589afd7,Transportservice
+334,eba363f1-a9bd-4f79-825c-fd90c9792ded,Planetarium
+335,481043fe-0808-4329-b153-aec2e11206d2,Bauernhof
+336,92be821b-38cd-486e-bfe7-24a1b280fba0,Wildgehege
+337,ee91a1a7-c488-4b64-a2bd-ffe980022775,Fußballplatz
+338,976a0dc9-6eff-3108-893b-f59d175942c8,Bootstour
+339,f5ae0688-880b-3019-ba7c-bd78ec71936d,Nordic Walking Tour
+340,dffe4cdf-4a07-4202-874e-9ab15110e587,Falknerei
+341,67e53187-bba0-4ba3-b984-8224042a8546,Badestelle
+342,dccb3312-2a61-44c9-af05-d0af06ca9fe3,Wassersportschule
+343,eef2c3e1-cc06-435a-83c1-2249d2d292eb,Autowerkstatt
+344,d2e209a3-2997-4910-9e01-0ff1260f595e,Bouleplatz
+345,cb6d5694-ee34-4123-9352-47d8472bf7d0,Heilpraktiker
+346,96fd7d5b-c413-4d15-8da5-9fcdca667793,Geschäft für Outdoorausrüstung
+347,1fd54732-53a1-40a3-8e03-bc89c2b7929a,Naturfreundehaus
+348,a3ac4ea1-c281-4451-a463-32735778649a,Lokaler Experte/in
+349,4c965271-06cf-4638-b048-c8bd5d07b1f4,Natur- und Landschaftsführer/in
+350,2af2f8e1-9cd7-46f0-8e86-b87624a5db95,Kräutergarten
+351,419431d4-b470-11ee-a498-00163e2945d0,Hersteller
+352,7ba701e7-1ccd-4e04-9ce3-fa2715f566e0,Tal
+353,39b8e048-0c77-4577-bf72-fbb0ed85a563,Hütte
+354,35129228-ea01-41bf-837b-8d01f7e9ed70,Biotop
+355,a00b7ef2-79de-43c2-bc18-fa8f9c1cbcc3,Gartencenter
+356,2ef7823f-b7d6-4af4-a9e3-4a30016afd9f,E-Bike Service
+357,dcfe33bc-0087-4d0f-9d0c-a4bc7b6ab990,Staudamm
+358,5c8b66e3-79da-4c46-8690-a9c3a5d34ced,Stockschießen
+359,1fa3aed8-4e45-3d8d-b1cb-e8a762a17a8b,Radfernweg
+360,7e9d5f8e-fc8a-4a9e-a6f5-0b35e3c8f233,Kletterfels
+361,50cc4f4a-c069-43af-8596-7e8e421ffab8,Hütte
+362,00eeb118-021f-45fc-be68-e541fbdc4ebb,Biergarten
+363,7d863dc6-c0af-4ca4-b786-02d557311be7,Kartbahn
+364,75e5ebdc-7db8-47b5-ab1b-e4e109d5273b,Vereinsheim
+365,a2cea18b-2145-447f-8dfe-1274712e7558,Flugschule / Rundflüge
+366,be0c1e6c-dea1-4ff2-8f72-482240686808,Tourismusorganisation
+367,d289c626-793f-4875-b427-e32330de504e,Bauernhof
+368,a368dfa7-f325-468d-801f-caf225fc3cd3,Stadion
+369,f239d63d-d4a7-411f-bd9b-7579375f50ae,Eissporthalle
+370,1da29bbf-2327-466b-a2ba-93cdbd8119ff,Skisprungschanze
+371,72cbd116-432f-4e3f-9cc6-f4860c5f2e9d,Hostel
+372,704622be-fa3a-4f10-9741-cd5c6657755e,Schule
+373,42b5babd-6207-4ca9-9de4-1db487d457f2,Trailrunning
+374,531fd1c6-a8aa-40f2-bc48-b9bf1ea3fdb7,Reiterhof
+375,6bd92075-79a2-47b5-8198-84e7b18c0cd2,Hochseilgarten
+376,52b3355c-546b-4808-8080-214c7b96e849,Outlet Store
+377,c144caa4-6e01-4f7d-8748-a4576e4548af,Lichtung
+378,bbe18308-b8ad-415c-aa9b-f888ebf09549,Kugelbahn
+379,635ee83f-e51f-42ea-92bc-2af03bd6a88d,Münster
+380,8f1750e4-a69b-4810-a894-501728597d2b,Initiative
+381,7d244a21-18ec-4bfc-aa44-0996c615191f,Musikschule
+382,3b2e3525-15e3-4932-be3a-7ddcf07eb50b,Chor
+383,66dc51bc-c02b-4e71-8a34-f2a398b44962,Rechtsdienstleistungen
+384,d97c2df9-28f4-457f-9bc0-249c6cc0c047,Orchester
+385,4631e31f-d044-4d13-9d63-7595db8601a1,Musikverein
+386,fb8e69cc-8dc5-4a75-bfe7-b9bd51b2c878,Akademie
+387,3fbbdbc1-5916-483f-ace7-7835be692e03,Tagungshaus / Tagungsräume
+388,e4088917-b213-482b-a129-736d0223133f,Hängebrücke
+389,c5c06d6d-c8c7-4264-9767-46843d147309,Familien-/Gruppenhaus
+390,d8a9aaf4-64ca-4a76-8eb7-b557c5d4a939,Getränkehersteller
+391,a046ee7f-94b0-4c04-a812-6eef8c8d61aa,Nagelstudio
+392,190f1406-48e4-41b1-ba3c-d552b2c1a2fc,Obstbauernhof
+393,14c6b67c-7330-4c21-944c-70d3d3f7fc66,Kindergarten
+394,13e485e5-2e8e-4a69-bbaa-210802f48d46,Freiwilliger Helfer/in
+395,927b28ef-5f04-4f96-9735-6e3b8a5572f9,Souvenirladen
+396,d085dfa7-613c-485c-a111-04682546f797,Nostalgie-/Freizeitbahn
+397,c5cbd5fe-2fb6-11ee-b7d1-e19c89eddb1e,Fahrradabstellanlage
+398,c48e52f3-f17b-419b-a3fa-8534d34c2d7b,Ergotherapeut
+399,0c06834e-3862-4524-ab7f-6830deb0878f,Ausstellungsraum / -haus
+400,d93e10e8-8489-4d13-a17a-9cd87ccfcfd1,Raststätte
+401,587017af-5df0-415b-81fd-74a0a500a235,Schifffahrt
+402,4e777a95-7ee6-4953-ba85-750bcf6c09fa,Fachhandel
+403,a566cbd6-0344-477a-ab75-2b1ca8901d88,Lederwarengeschäft
+404,3e0c62b4-04b5-41bd-83e5-48bc1e50f53e,Antiquitätengeschäft
+405,9cff98bd-d08a-4ad4-9d90-68e6383289a6,Tennisschule
+406,493c69ee-3f9f-40b5-8731-f9ec4836a7bf,Pop-up Restaurant
+407,686905f7-d500-4604-aabd-02f84e162f13,Tierarzt
+408,cb1eda52-0241-4771-bd98-02e6acdcc5cc,Buddhistischer Tempel
+409,0c7076ff-253c-41c6-8d73-50a1ac73dd7b,Strandbar
+410,1c4962b3-1b40-4532-b5d9-9231b25b81d4,Einkaufsstraße
+411,3d3f72d3-0a36-4c88-8c4f-892b2d27441f,Grill-/Steakhaus
+412,bf8edffb-9ec4-4606-a2e7-e2762dbfccae,Strandbad
+413,b0168ff4-2d5d-42f0-9afe-9c8365d4d4cd,Uferanlage/Promenade
+414,648bddd7-52ac-4c6d-9ea0-9bcc189597f7,Mediahaus
+415,fa4998f9-36d7-44d2-bf1a-c9215472a246,Fischerei
+416,3e2fb6ff-510b-4877-b569-433927fbaa68,Lounge
+417,ddf6e8ce-beed-465b-b9b8-796672a6c17a,Waschsalon
+418,736557e7-470a-4715-b09f-8d08f9dc3b45,Universität
+419,7e4e2974-18a3-4339-973f-20529a1794fe,Gemeinnützige Organisation
+420,70fc2e73-1ad7-4e08-b479-9627c4e04fec,Systemgastronomie
+421,3ef932c8-4dbe-4877-a7ba-9dbac255ed98,Pub
+422,04f160cd-39b9-4eb6-ae14-f81be22c80cb,Diskothek/Club
+423,71cbc1c8-9cf8-4dd8-b999-8cb8ed537143,Hafen
+424,525c072d-6d88-3238-b9f0-ea62266065ba,Fischrestaurant
+425,dc5812f1-1682-45eb-a267-f2f35bd89ce9,Moschee
+426,d888b426-4924-4342-a181-eda7324042dc,Crêperie
+427,fb48d509-dae8-47cd-a45d-4b159d7b36de,Fahrschule
+428,d47dfcfb-a6c8-47e4-a062-47574baccfbe,Möbelvermietung
+429,9f98759f-ad49-4a0a-9913-a01e283f704f,Kinderbetreuung
+430,e364fb0a-b4cd-4c18-a6d7-eed4dd2995dd,Küste
+431,374f283e-3bc1-464f-8aef-2ccc38e323c9,Aquarium
+432,4cde0283-8b5f-42ce-afe5-cdccf42ba4bb,Bestattungsinstitut
+433,03f4e8f3-a462-484c-8cb8-dcbea925096d,Käserei
+434,8ebd64cc-1f7d-4e38-b771-d1aee5c3cd08,Langlaufzentrum
+435,75115148-621d-4de6-8bcf-363e094245ec,Historische Persönlichkeit
+436,ac326ae5-6030-487a-b48a-4b448162730a,Wohnmobil-Tour
+437,1f117e6c-8e0c-41ca-8df7-3e8ad2435b57,Kreuzweg
+438,3bb021de-8691-468a-a5af-8ed147e60b98,Naturerlebnisraum
+439,455fbb21-564a-4ed1-a098-fc4bcf96ca67,Ticketverkaufsstelle
+440,4ee656bc-d982-4c23-b8dd-8e81564a039e,Verleih für Sportausrüstung
+441,ef8f36b1-6dd0-427d-b26a-cb6c733fcdda,Wassersportstützpunkt
+442,b27223c5-7b22-4f55-8fc6-b94ee650ae56,Naherholungsgebiet
+443,f67462a5-ce45-436a-bd95-d0f311d69b45,Baum
+444,3680a5a8-72c6-3233-9fbd-405f5fc8c4da,Joggingstrecke
+445,d4f36e0e-3ead-479e-a2e4-ce2003b6f1c4,Rehaklinik
+446,91341bbf-05d4-40ba-a056-9909e721c6d7,Geocachingroute
+447,b8d5b81c-834b-4392-a227-264a87684595,Pflegeheim
+448,4cb00815-73c5-4af8-893f-3afd5d8dda6e,Bikeguide
+449,2f720038-b152-11ee-ad6e-00163e2945d0,Naturbesonderheit
+450,6efe61d9-7757-4e50-915d-4bdcbb7230e0,Naturdenkmal
+451,b96132ed-1ce9-4355-b0d5-638c00a25b0a,Psychiatrische Versorgung
+452,959da190-0c3f-43ab-bb3f-efda8f41c4c5,Trachtengeschäft
+453,f954bc9f-f50a-48ee-8530-fcb98abaf69c,Schreiner
+454,28009a59-95c4-4641-825e-5821fd824388,Schankraum
+455,7d8093e4-b869-4892-bdcb-b8b2af0551a2,Kurpension
+456,1bf4b029-20bc-4b66-b826-d242c0049c48,Winzerhof
+457,82ad3235-f49a-459c-9dca-54692eb87182,Galerie für Fotografie
+458,45ed396d-a5e1-4025-9795-b8a1e3a2eb8a,Konzerthaus
+459,dc168ea5-8c7f-47ff-b352-efa8a94e80ec,Recyclinghof
+460,e28e4003-ffd0-4787-8134-4dd4cf7e7b71,Reiseveranstalter
+461,e5eb22c0-1d9d-490a-b761-d847628a6d05,Tempel
+462,049fd5ef-db23-4dea-ba01-aceda5653410,Skipiste
+463,590d1449-8cab-46e1-b852-56d46f0895d6,Hörgeräteakustiker
+464,22c5e1c0-c93b-4ddd-8577-e3c2db666019,Stocherkahn
+465,6d4ce152-4344-4cf3-b04a-7b4972352076,Naturpark
+466,31a20e6b-55d2-4122-9ca5-c22fad867996,Handwerker
+467,eaa358ee-69b6-4596-8762-4251474f4263,Wanderheim
+468,471d32f8-e67b-4106-a4ec-c8aa8f9cb372,Biosphärenreservat
+469,bc96f4c2-b575-49d1-a27c-bed41f07d651,Bikeschule
+470,065d244d-ae30-4ae5-9a43-ea9df20360bb,Basketballplatz
+471,51b831be-c8f0-49c2-823e-680b2f913c2e,Verkehrs- / Logistikdienstleister
+472,0ac1950e-023f-304f-88b6-680cdc5b92be,Klettersteig
+473,ecb8a865-1797-441a-9e9a-a1f0166b9195,Teestube
+474,43a55775-d84c-4c4c-bf62-f6b9c6c3a115,Baumwipfelpfad
+475,f27710ec-0b01-4751-9d46-97346e0fa28e,Skiguide
+476,832677a1-bf43-4f9c-8db4-83e7b74511e5,Motel
+477,f455f295-70de-4654-9ef3-7c2b7b5970f7,Genuss-Guide
+478,81be4902-de14-4d20-be04-95c7efacbca2,Ehemaliger Truppenübungsplatz
+479,84612ed9-f3c0-4d7b-b2bd-66d6a5b7cab4,Flugplatz
+480,200c1fc0-52f7-11ee-b3a2-73f14f602c2a,Pass
+481,7445444e-8ac4-4f66-a675-411c875fde9b,Synagoge
+482,c0696920-2d1d-461b-a321-0daadf206b51,Straßenbahnhaltestelle
+483,9206dd2f-0671-4a2b-bea7-6535310f71f6,Verkehrsübungsplatz
+484,03105190-51cb-432e-a6a5-b2f014da3f0d,Kochschule
+485,00632526-a779-41a2-9ffa-f7987de6d514,Haus des Gastes
+486,11daa5bf-c8a5-49cd-b964-ff33bd7e7e54,Hundewiese
+487,62e0167f-b228-472e-bfac-04ec047c0580,Irrgarten
+488,165ff43e-3071-4997-bc1a-d52b86a3720c,Kurmittelhaus
+489,eebcdefb-13a1-4384-8044-346e395074ee,Sommerrodelbahn
+490,c6d62af8-73de-4a2c-9232-41e8bd48fe7f,Landschulheim
+491,e9535673-5e6d-4ca6-80d0-9a8b6ffdd459,Ensemble
+492,fcc2ae74-21e1-3523-a884-5bc4e9d3439a,Kajak-/Kanutour
+493,06fec83e-c4f5-453f-af45-f795fc755e0a,Teich
+494,81fbf6af-7fe1-4854-bb5c-6dd4be9b509f,Übungshang
+495,7a83e4db-4483-4527-a6e3-34f6c8596d2b,Snowpark
+496,73e58619-2fab-4a2b-943e-73b1606f2d27,Regierungsgebäude
+497,4bb2ad8a-9a8a-11ee-96b0-00163e2945d0,Secondhand Geschäft
+498,eeede5b4-18d9-11ef-a894-00163e2945d0,Anbaugebiet
+499,2e077cbc-c228-439a-ab1c-725d09033bce,Schrein
+500,4cfded3c-6342-4b66-ae18-05b91c8350d4,Bergsportschule
+501,bdde001a-0309-40ac-9e71-2c9898996329,Yachtclub
+502,51b7b819-1ec3-465b-8ac0-cb866a8ab59a,Bahn
+503,e43047d0-95b7-45e6-919e-aaecfba6c041,Schleuse
+504,b25d2456-a01e-4b95-a8fa-f9c02351fa5e,Zahnarzt
+505,c6251673-14f6-41e7-b25e-dee63265c5b0,Notfallambulanz
+506,d47d9638-4ba0-4149-add5-da06c4350d10,Logopäde
+507,e3087a8a-0f79-4420-97f7-ce6d5efa5dcf,Podologe
+508,11e1b385-8d78-4015-afcc-c4d82ca63144,Computergeschäft
+509,6d7e3284-576a-4c8f-9906-100f64430bba,Kutschfahrt
+510,55540376-9ce2-43ca-b210-b2cc7a17d997,Briefkasten
+511,1cfd23ea-12b2-3675-b2bc-d7e7ac756b6c,Inline Skating Tour
+512,59697b23-c59e-423c-b94c-2974d4b84122,Autor/in
+513,f92e0a58-aaa0-41c0-b308-7ce85fe33228,Zirkus
+514,d9aa00d1-785c-30c9-a1a7-d589acc2a806,Reittour
+515,dea17c93-5b3a-433b-87f2-833047e61362,Canyoningführer/in
+516,b6c83b35-56bf-4d81-a426-0fea9fba38d1,Nationalpark
+517,0fab0565-8116-4b33-9ff4-25f42d7e0e07,Flughafen
+518,ad6afed4-7b01-4b7d-aeea-3df577a8d8fc,Skiroute
+519,a161cf38-a846-48f6-85ad-847438985453,Skiguide
+520,3b19b302-ffd5-44b5-8c68-77c2d77e5a97,Tänzer/in
+521,9d8d3428-5984-47fe-b8bf-471a8dfcf506,Skilehrer/in
+522,5348305c-4587-35ea-b0f1-ce5b06634853,Skitour
+523,e3dda44f-5043-462f-aecd-78246d24276c,Sänger/in
+524,19adabd4-abd0-442f-96d0-b51bae7dea22,Fischmarkt
+525,d9ab5a56-cc85-328d-af28-1aeb3d620ea9,Bergtour
+526,8a78311b-edcc-4a40-a350-96b86c202c67,Skigebiet
+527,4186a72d-bddf-4cd5-91c6-6958e085c24c,Filmemacher/in
+528,ebdb7086-008c-4c51-8880-3f4c38acd11b,Kathedrale
+529,484ab1fe-f507-4c6e-91fa-9c3ec8682dbb,Kurheim
+530,fda51c79-4ca7-4512-ae3b-8ac468102f0f,Weinlage
+531,0a2cc020-960e-4b48-840c-df142a251c8e,Ernährungsberatung
+532,87457f5c-8e47-490c-94b3-3f8e131c1da9,Billiardhalle
+533,36b47497-2d8d-4e0e-a41b-83251e131179,Modellflugplatz
+534,04bc277b-93c7-4996-b1c0-512a435b403e,U-Bahn Station
+535,25f90e19-5ed0-44cf-8f75-012c434624e7,Sportler/in
+536,6e490512-53ae-454b-967e-4d1da7bce63a,Junge Designer
